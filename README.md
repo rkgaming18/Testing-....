@@ -210,7 +210,7 @@
       </ul>  
       </div>  
       <h1 class="section-title">যোগ নেওঁতা</h1>
-     <div class="row"><div class="addition-box">  
+     <div class="row"><div class="table-box">  
       <ul>  
         <li>১ + ১ = ২</li>  
         <li>১ + ২ = ৩</li>  
@@ -224,7 +224,7 @@
         <li>১ + ১০ = ১১</li>  
       </ul>  
     </div>  
-  <div class="addition-box">  
+  <div class="table-box">  
       <ul>  
         <li>২ + ১ = ৩</li>  
         <li>২ + ২ = ৪</li>  
@@ -238,7 +238,7 @@
         <li>২ + ১০ = ১২</li>  
       </ul>  
     </div>  
-  <div class="addition-box">  
+  <div class="table-box">  
       <ul>  
         <li>৩ + ১ = ৪</li>  
         <li>৩ + ২ = ৫</li>  
@@ -252,7 +252,7 @@
         <li>৩ + ১০ = ১৩</li>  
       </ul>  
     </div>  
- <div class="addition-box">  
+ <div class="table-box">  
       <ul>  
         <li>৪ + ১ = ৫</li>  
         <li>৪ + ২ = ৬</li>  
@@ -266,7 +266,7 @@
         <li>৪ + ১০ = ১৪</li>  
       </ul>  
   </div>  
-    <div class="addition-box">  
+    <div class="table-box">  
       <ul>  
         <li>৫ + ১ = ৬</li>  
         <li>৫ + ২ = ৭</li>  
@@ -280,7 +280,7 @@
         <li>৫ + ১০ = ১৫</li>  
       </ul>  
  </div>  
-    <div class="addition-box">  
+    <div class="table-box">  
       <ul>  
         <li>৬ + ১ = ৭</li>  
         <li>৬ + ২ = ৮</li>  
@@ -294,7 +294,7 @@
         <li>৬ + ১০ = ১৬</li>  
       </ul>  
     </div>  
-   <div class="addition-box">  
+   <div class="table-box">  
       <ul>  
         <li>৭ + ১ = ৮</li>  
         <li>৭ + ২ = ৯</li>  
@@ -308,7 +308,7 @@
         <li>৭ + ১০ = ১৭</li>  
       </ul>  
     </div>  
-  <div class="addition-box">  
+  <div class="table-box">  
       <ul>  
         <li>৮ + ১ = ৯</li>  
         <li>৮ + ২ = ১০</li>  
@@ -322,7 +322,7 @@
         <li>৮ + ১০ = ১৮</li>  
       </ul>  
     </div>  
-   <div class="addition-box">  
+   <div class="table-box">  
       <ul>  
         <li>৯ + ১ = ১০</li>  
         <li>৯ + ২ = ১১</li>  
@@ -336,7 +336,7 @@
         <li>৯ + ১০ = ১৯</li>  
       </ul>  
     </div>  
-  <div class="addition-box">  
+  <div class="table-box">  
       <ul>  
         <li>১০ + ১ = ১১</li>  
         <li>১০ + ২ = ১২</li>  
