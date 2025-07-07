@@ -1,4 +1,5 @@
-<!DOCTYPE html>  <html lang="en">  
+<!DOCTYPE html>  
+<html lang="en">  
 <head>  
   <meta charset="UTF-8" />  
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />  
@@ -203,7 +204,7 @@
       <li>১০×৫=৫০</li>  
       <li>১০×৬=৬০</li>  
       <li>১০×৭=৭০</li>  
-      <li>১০×৮=৮০</pi>  
+      <li>১০×৮=৮০</li>  
       <li>১০×৯=৯০</li>  
       <li>১০×১০=১০০</li>  
       </ul>  
@@ -350,6 +351,7 @@
         <li>১০ + ৯ = ১৯</li>  
         <li>১০ + ১০ = ২০</li>  
       </ul>  
-  </div></section>
+  </div>
+</section>
 </body>  
 </html>
