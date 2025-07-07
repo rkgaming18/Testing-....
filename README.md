@@ -207,10 +207,9 @@
       <li>১০×৯=৯০</li>  
       <li>১০×১০=১০০</li>  
       </ul>  
-      </div>
-   </section>
-     <section>
-      h2 class="section-title">যোগ নেওঁতা</h2>
+      </div> </section>
+   <section>
+     <h2 class="section-title">যোগ নেওঁতা</h2>
 <div class="row">
   <div class="table-box">
       <ul>  
@@ -351,6 +350,6 @@
         <li>১০ + ৯ = ১৯</li>  
         <li>১০ + ১০ = ২০</li>  
       </ul>  
-    </div>  
+  </div></section>
 </body>  
 </html>
