@@ -127,8 +127,7 @@
         <li>৪ × ৯ = ৩৬</li>  
         <li>৪ × ১০ = ৪০</li>  
       </ul>  
-    </div>  
-<div class="table-box">  
+    </div> <div class="table-box">  
       <ul>  
         <li>৫ × ১ = ৫</li>  
         <li>৫ × ২ = ১০</li>  
@@ -209,8 +208,9 @@
       <li>১০×১০=১০০</li>  
       </ul>  
       </div>  
-      <h1 class="section-title">যোগ নেওঁতা</h1>
-     <div class="row"><div class="table-box">  
+      h2 class="section-title">যোগ নেওঁতা</h2>
+<div class="row">
+  <div class="table-box">
       <ul>  
         <li>১ + ১ = ২</li>  
         <li>১ + ২ = ৩</li>  
