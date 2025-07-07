@@ -209,8 +209,8 @@
       <li>১০×১০=১০০</li>  
       </ul>  
       </div>  
-      <h1>যোগ নেওঁতা</h1>  
-<div class="addition-wrapper">    <div class="addition-box">  
+      <h1 class="section-title">যোগ নেওঁতা</h1>
+     <div class="row"><div class="addition-box">  
       <ul>  
         <li>১ + ১ = ২</li>  
         <li>১ + ২ = ৩</li>  
